@@ -1,4 +1,4 @@
-FROM 'python'
+FROM python
 WORKDIR /app
-COPY . . /app/
+COPY . . 
 CMD ["python","a.py"]
