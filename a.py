@@ -1,3 +1,5 @@
+# A program to be virtualised using docker
+
 print("this is a simple calculator")
 a= int(input("Enter first number"))
 b= int(input("Enter second number"))
